@@ -21,7 +21,6 @@ def long_planeteer_calls(array)# code an argument here
     array.any? {|word| word.length < 4}
     return false
   end
-  end
   # Your code here
 end
 
